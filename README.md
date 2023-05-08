@@ -3,6 +3,7 @@
 ## Description
 
 Responsive landing page Udacity project 
+View it ====>> https://i-bassem.github.io/landing-page/
 
 ## Requirements:
 1- Navigation is built dynamically as an unordered list.
